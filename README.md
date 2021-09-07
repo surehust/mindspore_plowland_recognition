@@ -1,3 +1,5 @@
+此工程主体结构代码来源于华为deeplabv3是实现，根据竞赛内容我们对部分代码进行修改。详细操作流程见《DeepLabV3网络基线版本自验报告》文档。
+
 # Contents
 
 - [DeepLabV3 Description](#DeepLabV3-description)
