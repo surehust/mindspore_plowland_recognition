@@ -1,0 +1,2 @@
+# mindspore_plowland_recognition
+MindSpore开源框架工程化应用专题赛赛题二：遥感图像耕地识别（Baseline）
